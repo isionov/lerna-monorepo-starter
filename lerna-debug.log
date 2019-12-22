@@ -1,0 +1,8 @@
+0 silly argv { _: [ 'clean' ],
+0 silly argv   lernaVersion: '3.19.0',
+0 silly argv   '$0': '/usr/local/bin/lerna' }
+1 notice cli v3.19.0
+2 verbose rootPath /Users/ilaionov/pet-projects/lerna-monorepo-starter
+3 error JSONError: Unexpected end of JSON input while parsing near '' in packages/shop/package.json
+3 error     at module.exports (/Users/ilaionov/.config/yarn/global/node_modules/parse-json/index.js:26:19)
+3 error     at parse (/Users/ilaionov/.config/yarn/global/node_modules/load-json-file/index.js:15:9)
